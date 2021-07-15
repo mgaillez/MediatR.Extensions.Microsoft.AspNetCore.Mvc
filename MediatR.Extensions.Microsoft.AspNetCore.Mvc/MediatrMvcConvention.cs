@@ -12,6 +12,10 @@ namespace MediatR.Extensions.Microsoft.AspNetCore.Mvc
     /// </summary>
     public class MediatrMvcConvention : IControllerModelConvention
     {
+        /// <summary>
+        /// Apply
+        /// </summary>
+        /// <param name="controller"></param>
         public void Apply(ControllerModel controller)
         {
             var requiredBaseType = typeof(MediatrMvcGenericController<,>);
