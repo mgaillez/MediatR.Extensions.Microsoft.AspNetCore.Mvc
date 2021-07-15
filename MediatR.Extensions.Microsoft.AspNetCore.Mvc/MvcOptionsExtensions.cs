@@ -4,6 +4,9 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace MediatR.Extensions.Microsoft.AspNetCore.Mvc
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class MvcOptionsExtensions
     {
         /// <summary>

@@ -19,5 +19,8 @@ public async Task<IActionResult> MyRequestAction(MyRequest request)
 ## MediatR version support
 
 MediatR.Extensions.Microsoft.AspNetCore.Mvc version 1.0.0 lists MediatR 4.0.0 as a dependency, but it equally supports every version of MediatR up to 5.1.0
+MediatR.Extensions.Microsoft.AspNetCore.Mvc version 2.0.0 lists MediatR 6.0.0 as a dependency, but it equally supports every version of MediatR up to 8.1.0
+MediatR.Extensions.Microsoft.AspNetCore.Mvc version 3.0.0 lists MediatR 6.0.0 as a dependency, but it equally supports every version of MediatR up to 8.1.0
+MediatR.Extensions.Microsoft.AspNetCore.Mvc version 4.0.0 lists MediatR 9.0.0 as a dependency
 
-## See [Wiki](https://github.com/Artem-Romanenia/MediatR.Extensions.Microsoft.AspNetCore.Mvc/wiki) to get started.
+## See [Wiki](https://github.com/mgaillez/MediatR.Extensions.Microsoft.AspNetCore.Mvc/wiki) to get started.
